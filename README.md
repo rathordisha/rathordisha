@@ -1,4 +1,4 @@
 #### hello lovely people! 👋
-
-I am a Computer science student🌱 & currently learning Front-end web development. 
+## A creative, enthusiastic personality.
+I am a Computer science student🌱 Interested in Web development and coding. 
 
